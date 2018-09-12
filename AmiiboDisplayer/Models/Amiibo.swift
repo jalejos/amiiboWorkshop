@@ -7,21 +7,7 @@
 //
 
 import Foundation
-import ObjectMapper
 
-class Amiibo: Mappable {
-    var name = ""
-    var date = Date()
-    
-    init() {}
-    
-    required init?(map: Map) {
-        
-    }
-    
-    func mapping(map: Map) {
-        name <- map["character"]
-        date <- (map["release.na"], DateTransform())
-    }
+class Amiibo {
     
 }
