@@ -1,5 +1,16 @@
 # amiiboWorkshop
 
+## Sections
+- [What to learn from this workshop](https://github.com/jalejos/amiiboWorkshop#what-we-expect-to-learn-on-this-workshop)
+- [Step by step](https://github.com/jalejos/amiiboWorkshop#step-by-step)
+  - [Install Pods](https://github.com/jalejos/amiiboWorkshop#install-project-pods)
+  - [Initialize Model](https://github.com/jalejos/amiiboWorkshop#initialize-model)
+  - [Map from JSON to Model](https://github.com/jalejos/amiiboWorkshop#map-properties-to-json-keys)
+  - [Get Array of Elements](https://github.com/jalejos/amiiboWorkshop#get-example-amiibo-array)
+  - [Work on your TableView](https://github.com/jalejos/amiiboWorkshop#configure-basic-table-view)
+  - [Make TableView Interactive](https://github.com/jalejos/amiiboWorkshop#make-tableview-interactive)
+  - [Display Selected Model's Details](https://github.com/jalejos/amiiboWorkshop#display-selected-amiibo-information)
+
 ## What we expect to learn on this workshop
 - Swift: the land without null’s
 - A common project structure for an iOS application
