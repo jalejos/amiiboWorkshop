@@ -10,6 +10,7 @@
   - [Work on your TableView](https://github.com/jalejos/amiiboWorkshop#configure-basic-table-view)
   - [Make TableView Interactive](https://github.com/jalejos/amiiboWorkshop#make-tableview-interactive)
   - [Display Selected Model's Details](https://github.com/jalejos/amiiboWorkshop#display-selected-amiibo-information)
+- [What's Next?](https://github.com/jalejos/amiiboWorkshop#where-to-go-after-this)
 
 ## What we expect to learn on this workshop
 - Swift: the land without null’s
